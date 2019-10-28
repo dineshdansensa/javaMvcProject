@@ -39,6 +39,6 @@
 
 	</dependencies>
 	<build>
-		<finalName>SpringMVCDEMO2</finalName>
+		<finalName>ROOT</finalName>
 	</build>
 </project>
